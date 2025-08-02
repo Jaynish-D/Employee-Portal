@@ -144,3 +144,4 @@ C:\Users\LENOVO\Source\Repos\Employee-Portal\EmployeePortal\obj\Debug\net8.0\ref
 C:\Users\LENOVO\Source\Repos\Employee-Portal\EmployeePortal\obj\Debug\net8.0\EmployeePortal.pdb
 C:\Users\LENOVO\Source\Repos\Employee-Portal\EmployeePortal\obj\Debug\net8.0\EmployeePortal.genruntimeconfig.cache
 C:\Users\LENOVO\Source\Repos\Employee-Portal\EmployeePortal\obj\Debug\net8.0\ref\EmployeePortal.dll
+C:\Users\LENOVO\Source\Repos\Employee-Portal\EmployeePortal\obj\Debug\net8.0\EmployeePortal.sourcelink.json
